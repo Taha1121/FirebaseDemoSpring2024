@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-package.json
+src/main/resources/aydin/firebasedemospring2024/key.json
 ### Eclipse ###
 .apt_generated
 .classpath
